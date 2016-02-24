@@ -1,0 +1,104 @@
+f:\SteamApps\common\Alien Isolation
+f:\SteamApps\common\Aliens vs Predator
+f:\Ubisoft\Related Designs\ANNO 2070
+F:\Glyph\Games\ArcheAge
+f:\SteamApps\common\Arma 3
+f:\SteamApps\common\Assassin's Creed 3
+f:\Ubisoft\Ubisoft Game Launcher\games\Assassin's Creed Liberation HD
+f:\Ubisoft\Ubisoft Game Launcher\games\Assassin's Creed IV Black Flag Asia
+f:\Ubisoft\Ubisoft Game Launcher\games\Assassin's Creed Unity
+f:\SteamApps\common\assettocorsa
+f:\SteamApps\common\Batman Arkham City GOTY\Binaries\Win32
+f:\SteamApps\common\Batman Arkham Origins\SinglePlayer\Binaries\Win32
+f:\SteamApps\common\Batman Arkham Knight\Binaries\Win64
+f:\Origin Games\Battlefield 3
+f:\Origin Games\Battlefield 4
+f:\Origin Games\Battlefield Bad Company 2
+f:\SteamApps\common\BioShock Infinite\Binaries\Win32
+f:\SteamApps\common\Call of Duty Black Ops II
+f:\SteamApps\common\Call of Duty Ghosts
+f:\SteamApps\common\Sid Meier's Civilization V
+f:\SteamApps\common\Sid Meier's Civilization Beyond Earth
+f:\SteamApps\common\Company of Heroes 2
+f:\Origin Games\Crysis 2
+f:\Origin Games\Crysis 3\Bin32
+f:\SteamApps\common\Dark Souls II Scholar of the First Sin\Game
+f:\SteamApps\common\Deus Ex - Human Revolution
+f:\SteamApps\common\Deus Ex Human Revolution Director's Cut
+f:\SteamApps\common\DiRT 3
+f:\SteamApps\common\DiRT 3 Complete Edition
+f:\SteamApps\common\DiRT Rally
+f:\SteamApps\common\DiRT Showdown
+f:\Origin Games\dragon Age Inquisition
+f:\SteamApps\common\Dungeons and Dragons Online
+f:\SteamApps\common\Dying Light
+f:\SteamApps\common\F.E.A.R. 3
+f:\Ubisoft\Ubisoft Game Launcher\games\Far Cry 3
+f:\Ubisoft\Far Cry 3 Blood Dragon\bin
+f:\Ubisoft\Ubisoft Game Launcher\games\Far Cry 4\bin
+f:\Origin Games\FIFA 15 DEMO
+f:\SteamApps\common\Grand Theft Auto V
+f:\SteamApps\common\grid 2
+f:\SteamApps\common\GRID Autosport
+f:\SteamApps\common\Hitman Absolution
+f:\SteamApps\common\HOMEFRONT\Binaries
+f:\SteamApps\common\L.A.Noire
+f:\SteamApps\common\Lords Of The Fallen
+f:\SteamApps\common\Lost Planet 2
+f:\SteamApps\common\Max Payne 3\Max Payne 3
+f:\Origin Games\Medal of Honor\MP
+f:\Origin Games\Medal of Honor Warfighter
+f:\SteamApps\common\Metro 2033
+f:\SteamApps\common\Metro 2033 Redux
+f:\SteamApps\common\Metro Last Light
+f:\SteamApps\common\Metro Last Light Redux
+f:\SteamApps\common\ShadowOfMordor\x64
+f:\SteamApps\common\MK10\Binaries\Retail
+f:\SteamApps\common\Murdered Soul Suspect\Binaries\Win64
+f:\SteamApps\common\Cryptic Studios\Neverwinter\Live
+f:\SteamApps\common\Oil Rush\bin
+f:\SteamApps\common\pCars
+f:\SteamApps\common\red faction armageddon
+f:\SteamApps\common\Red Faction Guerrilla
+f:\SteamApps\common\Rise of Nations
+f:\SteamApps\common\Ryse Son of Rome\Bin64
+f:\SteamApps\common\Saints Row the Third
+f:\SteamApps\common\Saints Row IV
+f:\SteamApps\common\SleepingDogs
+f:\SteamApps\common\SleepingDogsDefinitiveEdition
+f:\SteamApps\common\Project Silverado
+f:\SteamApps\common\strikesuitzero\pc\main\Binary
+f:\SteamApps\common\SSZ Directors Cut\pc\main\Binary
+f:\SteamApps\common\Star Trek Online\Star Trek Online\Live
+f:\SteamApps\common\Lord of the Rings Online
+f:\Games\The Secret World
+f:\GOG Games\The Witcher 3 Wild Hunt\bin\x64
+f:\SteamApps\common\Thief\Binaries2\Win64
+f:\Origin Games\Titanfall
+f:\Ubisoft\Tom Clancy's H.A.W.X. 2
+f:\SteamApps\common\Tomb Raider
+f:\SteamApps\common\Total War Rome II
+f:\SteamApps\common\Total War SHOGUN 2
+f:\SteamApps\common\ToyboxTurbos
+f:\SteamApps\common\TrialsPC\datapack
+f:\SteamApps\common\Trials Fusion\datapack
+f:\Ubisoft\Ubisoft Game Launcher\games\Watch_Dogs\bin
+f:\Games\World of Warcraft
+f:\SteamApps\common\Tom Clancy's Splinter Cell Blacklist
+f:\SteamApps\common\The Bureau\Binaries\Win32
+f:\SteamApps\common\War of the Roses
+f:\SteamApps\common\Shadow Warrior\dx11
+
+f:\SteamApps\common\Age of Conan
+f:\Ubisoft\Related Designs\ANNO 1404 - Gold Edition
+f:\SteamApps\common\Assassins Creed
+f:\SteamApps\common\Bioshock\Builds\Release
+f:\SteamApps\common\BioShock 2\SP\Builds\Binaries
+f:\SteamApps\common\BioShock 2\MP\Builds\Binaries
+f:\SteamApps\common\Devil May Cry 4
+f:\steamapps\common\Special Edition
+f:\SteamApps\common\Far Cry 2\bin
+f:\Ubisoft\James Cameron's AVATAR - THE GAME
+f:\SteamApps\common\Just Cause 2
+f:\SteamApps\common\lost planet extreme condition
+f:\SteamApps\common\Stormrise

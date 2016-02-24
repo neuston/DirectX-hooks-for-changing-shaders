@@ -1,0 +1,5 @@
+LIBRARY	"d3d10"
+
+EXPORTS
+		D3D10CreateDevice @1
+		D3D10CreateDeviceAndSwapChain @2

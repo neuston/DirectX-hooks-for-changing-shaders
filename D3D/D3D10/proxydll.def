@@ -1,0 +1,22 @@
+LIBRARY	"d3d10"
+
+EXPORTS
+		D3D10CompileEffectFromMemory @2
+		D3D10CompileShader @3
+		D3D10CreateBlob @4
+		D3D10CreateDevice @5
+		D3D10CreateDeviceAndSwapChain @6
+		D3D10CreateEffectFromMemory @7
+		D3D10CreateEffectPoolFromMemory @8
+		D3D10CreateStateBlock @9
+		D3D10DisassembleEffect @10
+		D3D10DisassembleShader @11
+		D3D10GetGeometryShaderProfile @12
+		D3D10GetInputAndOutputSignatureBlob @13
+		D3D10GetInputSignatureBlob @14
+		D3D10GetOutputSignatureBlob @15
+		D3D10GetPixelShaderProfile @16
+		D3D10GetShaderDebugInfo @17
+		D3D10GetVertexShaderProfile @19
+		D3D10ReflectShader @21
+		D3D10PreprocessShader @22
