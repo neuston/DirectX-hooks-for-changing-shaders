@@ -1,6 +1,6 @@
 # DirectX-hooks-for-changing-shaders
 
-using these wrapper together with fixed shaders often produce 3D Vision Readdy quality,
+using these wrapper together with fixed shaders often produce 3D Vision Ready quality games,
 
 # Hunting
 
